@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "npm start",
-    "start": "nodemon servre.js"
+    "start": "nodemon server.js"
   },
   "author": "Tushar Kanta Swain",
   "license": "ISC",
