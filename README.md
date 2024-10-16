@@ -57,6 +57,5 @@ The Age Detector Movie Application is a web application that scans the user's fa
  - MongoDB for data storage
 
 ### Feel free to explore, contribute, or provide feedback!
-
-This version is structured for easy reading and provides a professional introduction along with detailed setup instructions.
+ - This version is structured for easy reading and provides a professional introduction along with detailed setup instructions.
 
